@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+h1{
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 6px;
+    text-align: center;
+}
+.container{
+    display: block;
+    width: 50%;
+    border: solid #999 1px;
+    margin: 10px 10px;
+   
+    
+}
+
+.form-group{
+    display: block;
+    flex-direction: row;
+    text-align: center;
+    /* border: solid blue 1px; */
+    text-align: left;
+    margin: 4px;
+    
+}
+
+.form-control{
+    display: block;
+    /* border: solid brown 1px; */
+    min-width: 80%;
+    padding: 4px 2px;
+    margin:4px 4px;
+
+}
+
+small{
+    margin: 4px;
+    padding: 4px;
+}
